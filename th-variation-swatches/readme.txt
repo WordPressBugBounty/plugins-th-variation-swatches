@@ -1,150 +1,105 @@
-=== Variation Swatches for WooCommerce – Color, Image & Button Swatches ===
+====== Variation Swatches for WooCommerce ========
 Contributors: ThemeHunk
-Author URI: https://www.themehunk.com/
-Tags: variation swatches, woocommerce variation swatches, woocommerce color swatches, product swatches, woocommerce attributes
+Author URI: : https://www.themehunk.com/
+Tags: woocommerce, variation swatches, woocommerce attributes, woocommerce variation, woocommerce variation swatches 
 Requires at least: 5.8
 Tested up to: 7.0
-Stable tag: 1.4.1
-WC requires at least: 3.5.0
-WC tested up to: 9.4.2
-Requires PHP: 5.6
+Stable tag: 1.4.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Variation Swatches for WooCommerce turns dropdowns into color, image & button swatches for sizes, colors and styles.
+Variation Swatches for WooCommerce plugin will replace default swatches to professionally styled and colourful swatches.
 
 == Description ==
 
-**TH Variation Swatches for WooCommerce** by ThemeHunk is a free, easy-to-use swatches plugin that replaces the default WooCommerce variation dropdowns with professionally styled, colourful swatches. Instead of plain select boxes, your customers can pick product variations using color swatches, image swatches, and button (label) swatches – a much nicer way to present product colors, sizes, and styles on your WooCommerce store.
+TH Variation Swatches for WooCommerce is a Free easy to use Swatches Plugin. This plugin will replace default swatches to professionally styled and colourful swatches. Plugin interface is User-friendly which allows you to edit variations seamlessly. Plugin comes with three attribute types Colour, image & button. For each attribute, you can use rounded and square shape modes. Along with this you can also enable tool-tip on each product attribute, show the attribute title, display styled swatches at shop and catalog page. This amazing plugin will give you new experience of your WooCommerce site and advanced product page look for your customers.
 
-This variation swatches plugin gives your single product, shop, and archive pages an advanced, modern look. With a user-friendly interface you can edit WooCommerce attributes and variations seamlessly, choose between rounded or square swatch shapes, enable tooltips on every product attribute, and display styled swatches across your shop and catalog pages.
+[Docs](https://themehunk.com/docs/th-variation-swatches-plugin/) | [More Details](https://themehunk.com/th-variation-swatches/) | [support](https://themehunk.com/contact-us/) 
 
-If you sell variable products – clothing in multiple colors and sizes, accessories, or any product with attributes – Variation Swatches for WooCommerce turns boring dropdowns into clear, clickable swatches that help shoppers find what they want faster and improve your product page experience.
+**Key Features:-**
 
-[Docs](https://themehunk.com/docs/th-variation-swatches-plugin/) | [More Details](https://themehunk.com/th-variation-swatches/) | [Support](https://themehunk.com/contact-us/)
+⭐ Super Fast Loading    
+⭐ Color Variation Swatch  
+⭐ Image Variation Swatch  
+⭐ Button Variation Swatch 
+⭐ Tooltip on Variation Swatches       
+⭐ Rounded Shape Style 
+⭐ Sqaured Shape Style 
+⭐ Attribute Behaviour ( Blur/Hide )   
+⭐ Swatches for Quick View 
+⭐ Swatches for Shop page, Archive pages
+⭐ Display Options ( Attribute Title, Name, Seperator )
+⭐ Easily Customizable 
+⭐ Responsive to All devices   
+⭐ Fully Documentated
+⭐ 24x7 support available for free product too.
 
-= Why choose Variation Swatches for WooCommerce? =
+**Pro Features:-**
 
-* **Color Variation Swatches** – Show product colors as clickable color swatches instead of a dropdown, even you can show Dual color variations too.
-* **Image Variation Swatches** – Display attribute images so customers can see exactly what they're choosing.
-* **Button / Label Variation Swatches** – Turn sizes and styles into clean button swatches.
-* **Tooltips on Swatches** – Show the attribute name on hover for a clearer shopping experience.
-* **Rounded & Square Shapes** – Pick the swatch shape that matches your theme.
-* **Swatches on Shop & Archive Pages** – Let users choose variations right from the shop, catalog, and archive pages.
-* **Swatches in Quick View** – Works inside Quick View for faster browsing.
-* **Attribute Behaviour Control** – Choose how unavailable variations behave (Blur / Hide).
-* **Display Options** – Show or hide the attribute title, name, and separator.
-* **Fully Responsive** – Looks great on desktop, tablet, and mobile.
-* **Works With Any Theme** – Compatible with WooCommerce and almost all WordPress themes.
-
-= Free Features =
-
-⭐ Super Fast Loading
-⭐ Color Variation Swatch
-⭐ Image Variation Swatch
-⭐ Button Variation Swatch
-⭐ Tooltip on Variation Swatches
-⭐ Rounded Shape Style
-⭐ Squared Shape Style
-⭐ Attribute Behaviour ( Blur / Hide )
-⭐ Swatches for Quick View
-⭐ Swatches for Shop Page & Archive Pages
-⭐ Display Options ( Attribute Title, Name, Separator )
-⭐ Easily Customizable
-⭐ Responsive on All Devices
-⭐ Fully Documented
-⭐ 24x7 support available for the free product too
-
-= Pro Features =
-
-⭐ Advanced Tooltip in Variation Swatches
-⭐ Tooltip Styling Options
+⭐ Tooltip in Variation Swatches
+⭐ Tooltip Styling Option
 ⭐ Image Tooltip Option
-⭐ Button Variation Swatch Styling
+⭐ Button Variation Swatch
+⭐ Styling Options for Button Swatches
 ⭐ Swatches for Shop Page Products
-⭐ Swatches for Archive Pages
-⭐ Swatches Widgets for WooCommerce Sidebar
+⭐ Swatches for Archive page
+⭐ Swatches Widgets for WooCommerce Pages Sidebar
 ⭐ Highlight Attributes
-⭐ Stock Availability Tooltip
-⭐ Full Styling Options for All Swatches
-
-Get the [Pro version on ThemeHunk](https://themehunk.com/th-variation-swatches/) to unlock advanced styling and tooltip control.
-
-= Works With Popular Themes =
-
-Compatible with [Shop Mania](https://themehunk.com/th-shop-mania/), [OceanWP](https://wordpress.org/themes/oceanwp/), [Jot Shop](https://wordpress.org/themes/jot-shop/), [Top Store](https://wordpress.org/themes/top-store/), [Big Store](https://wordpress.org/themes/big-store/), [Open Shop](https://wordpress.org/themes/open-shop/), [Zita](https://wordpress.org/themes/zita/), [Royal Shop](https://wordpress.org/themes/royal-shop/), [Open Mart](https://wordpress.org/themes/open-mart/), [Storefront](https://wordpress.org/themes/storefront/), [Orchid Store](https://wordpress.org/themes/orchid-store/) and almost all WordPress themes.
+⭐ Stock Availability ToolTip
+⭐ Styling Options for all Swatches
 
 == Installation ==
 
-= Automatic Installation =
-
-1. Log in to your WordPress dashboard, navigate to the Plugins menu and click Add New.
-2. In the search field type "Variation Swatches for WooCommerce" and click Search Plugins.
-3. Once you've found it, install it by clicking the Install Now button, then click Activate.
-
-= Manual Installation =
-
-1. Upload the `th-variation-swatches.zip` to the `/wp-content/plugins/` directory, or extract it there.
-2. Activate the plugin through the 'Plugins' menu in WordPress.
-3. Get started from Dashboard > TH Variation Swatches Builder.
-
-= Configure Your Attributes (Important) =
-
-Even after the plugin is installed and activated, your variable products will keep showing dropdowns until you set an attribute type. To turn dropdowns into swatches:
-
-1. Go to Products > Attributes in your WordPress dashboard.
-2. Click an attribute name to edit it, or create a new attribute.
-3. Set the attribute type to Color, Image, or Button instead of the default Select.
-4. Save the attribute, then click the cog/edit icon to manage its terms.
-5. For each term, choose a color, upload an image, or enter a label.
-6. Open the TH Variation Swatches Builder from your dashboard to style the swatches and adjust display options.
-
-Your variation dropdowns will now display as color, image, or button swatches on the product, shop, and archive pages.
+1. Upload the `th-variation-swatches.zip` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Get started from Dashboard > TH Variation Swatches Builder
 
 == Frequently Asked Questions ==
 
-= How do I install the plugin? =
+= How to Install Plugin =
+Just upload the `th-variation-swatches.zip` to the `/wp-content/plugins/` directory, and then activate it from 'Plugins' menu in WordPress.
 
-Upload the `th-variation-swatches.zip` to the `/wp-content/plugins/` directory, then activate it from the 'Plugins' menu in WordPress. You can also install it directly by searching "Variation Swatches for WooCommerce" under Plugins > Add New.
+= How can i get Support if my TH Variation Swatches Builder Plugin is not Working ? =
 
-= How do I turn my variation dropdowns into swatches? =
+If you're facing any problem while using our TH Variation Swatches builder plugin, Please first follow the below steps :
 
-Go to Products > Attributes, set each attribute's type to Color, Image, or Button, then add a color, image, or label for each term. See the "Configure Your Attributes" section above for the full step-by-step.
+1. Deactivate all plugins you are using and check if the problem is still occurring with our TH Variation Swatches Builder.
+2. Check the theme and plugin version, if it is latest or not.
+3. Check the plugin with default theme, to make sure error is not due to theme you're using.
 
-= Will this variation swatches plugin work with my theme? =
+You're free to contact us through mail, via our Contact form and Live chat support. We have also given full documentation of our Plugin, you can go with it and learn how to use our plugin.
 
-Yes. It is compatible with all [ThemeHunk themes](https://themehunk.com/free-themes/) and almost all WordPress themes. If you experience any styling issue with your theme, [contact us](https://themehunk.com/contact-us/) and our team will be happy to help.
+= How can i get more advanced features of TH Variation Swatches Builder ? =
 
-= Is it compatible with WooCommerce HPOS? =
+You can get more features with the premium version of TH Variation Swatches Builder Plugin, available on [ThemeHunk](https://themehunk.com/). Please [follow this link](https://themehunk.com/th-variation-swatches/) and get to know about more advanced features.
 
-Yes. The plugin is compatible with WooCommerce High-Performance Order Storage (HPOS).
+= Is it Compatible with All WordPress Themes ? =
 
-= How can I get support if the plugin isn't working? =
+It is compatible with all [ThemeHunk themes](https://themehunk.com/free-themes/) and almost all WordPress themes, We always try to make our Plugin compatible with All WordPress Themes. If TH Variation Swatches builder will create any kind of issue with any theme. You're Free to [contact us](https://themehunk.com/contact-us/) , Our Team will be Happy to help you.
 
-First, deactivate other plugins to check for conflicts, confirm your theme and plugin versions are up to date, and test with a default theme. If the issue continues, contact us by email, our contact form, or live chat support. Full documentation is also available.
+= Can I translate TH Variation Swatches Builder plugin to Multi Language ? =
 
-= How do I get the advanced features? =
-
-The premium features – advanced tooltips, full swatch styling, widgets, and highlight attributes – are available in the Pro version on [ThemeHunk](https://themehunk.com/th-variation-swatches/).
-
-= Can I translate the plugin into another language? =
-
-Yes. The plugin is translation ready and can be translated into your desired language.
+Yes, You can translate our plugin to desired language.
 
 == Demo ==
-
 [Sport Shop](https://wpthemes.themehunk.com/sport-shop/), [Top Store Watches](https://wpthemes.themehunk.com/topstore-watches/), [Pet World](https://wpthemes.themehunk.com/pet-world/), [Open Shop Pro Demo 1](https://wpthemes.themehunk.com/open-shop-pro/), [Open Shop Pro Demo 2](https://wpthemes.themehunk.com/open-shop-pro-demo2/)
 
+== Compatible Themes ==
+
+[Shop Mania](https://themehunk.com/th-shop-mania/), [OceanWP](https://wordpress.org/themes/oceanwp/), [Jot Shop](https://wordpress.org/themes/jot-shop/) [Top Store](https://wordpress.org/themes/top-store/), [Big Store](https://wordpress.org/themes/big-store/), [Open Shop](https://wordpress.org/themes/open-shop/), [Zita](https://wordpress.org/themes/zita/), [Royal Shop](https://wordpress.org/themes/royal-shop/), [Open Mart](https://wordpress.org/themes/open-mart/), [Gogo](https://wordpress.org/themes/gogo/), [Almaira Shop](https://wordpress.org/themes/almaira-shop/), [Oneline](https://wordpress.org/themes/oneline-lite/), [Shopline](https://wordpress.org/themes/shopline/), [Storefront](https://wordpress.org/themes/storefront/), [Envo Shop](https://wordpress.org/themes/envo-shop/), [Orchid Store](https://wordpress.org/themes/orchid-store/)
+
 == Screenshots ==
-1. Dashboard Settings
-2. Live Preview
-3. General Settings
-4. Pro settings
 
 == Changelog ==
 
+= 1.4.2 =
+* Update: Backend style updated.
+* Update: Front style updated.
+* Update: Image Tooltip issue resolved.
+* Update: Issues Resolved.
+
 = 1.4.1 =
-* Update: images , logo and readme file.
+* Update: Style Improved.
 
 = 1.4.0 =
 * Update: Admin area with live preview style updated.
@@ -256,8 +211,10 @@ Initial release
 
 == Upgrade Notice ==
 
+= 1.3.5 =
+* Update: Tested with WordPress 6.9 and PHP 8.1 compatibility improvements. Security fixes included.
 
 
-Thanks for using our plugin, I am sure you will create a great Product Swatches for your site. If you have any query then you can contact at our forum : https://www.themehunk.com/contact-us/
+Thanks for using our plugin, I am sure you will create a great Product Swatches for your site. If you have any query then you can contact at our forum : https://www.support.themehunk.com/
 
 Thank You

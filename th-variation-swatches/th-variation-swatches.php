@@ -4,7 +4,7 @@
  * Plugin Name:             TH Variation Swatches
  * Plugin URI:              https://themehunk.com/th-variation-swatches/
  * Description:             Beautiful Colors, Images and Buttons Variation Swatches For WooCommerce Product Attributes. This plugin will replace default swatches to professionally styled and colourful swatches. Plugin interface is User-friendly which allows you to edit variations seamlessly. <a href="https://themehunk.com/plugins/" target="_blank">Get more plugins for your website on <strong>ThemeHunk</strong></a>
- * Version:                 1.4.1
+ * Version:                 1.4.2
  * Author:                  ThemeHunk
  * Author URI:              https://themehunk.com
  * License:                 GPL-2.0+
@@ -12,7 +12,7 @@
  * Requires at least:       4.8
  * Tested up to:            7.0
  * WC requires at least:    3.2
- * WC tested up to:         9.8
+ * WC tested up to:         10.8
  * Domain Path:             /languages
  * Text Domain:             th-variation-swatches
  */
@@ -47,12 +47,29 @@ if (!defined('TH_VARIATION_SWATCHES_VERSION')) {
   define('TH_VARIATION_SWATCHES_VERSION', $plugin_data['version']);
 }
 
-if (!class_exists('TH_Variation_Swatches') && (!class_exists('TH_Variation_Swatches_Pro'))) {
+function thvs_init() {
 
-// Plugin is compatible with HPOS.
-  include_once(TH_VARIATION_SWATCHES_PLUGIN_PATH . 'inc/themehunk-menu/admin-menu.php');
-  require_once("inc/thvs.php");
-  
+	if ( ! class_exists( 'WooCommerce' ) ) {
+		add_action( 'admin_notices', 'thvs_woocommerce_missing_notice' );
+		return;
+	}
+
+	if ( ! class_exists( 'TH_Variation_Swatches' ) && ! class_exists( 'TH_Variation_Swatches_Pro' ) ) {
+		// Plugin is compatible with HPOS.
+		include_once TH_VARIATION_SWATCHES_PLUGIN_PATH . 'inc/themehunk-menu/admin-menu.php';
+		require_once 'inc/thvs.php';
+	}
+}
+add_action( 'plugins_loaded', 'thvs_init' );
+
+function thvs_woocommerce_missing_notice() {
+	echo '<div class="notice notice-error"><p>' .
+		sprintf(
+			/* translators: %s: WooCommerce plugin link */
+			esc_html__( 'TH Variation Swatches requires %s to be installed and active.', 'th-variation-swatches' ),
+			'<strong>WooCommerce</strong>'
+		) .
+		'</p></div>';
 }
 
 function thvs_plugin_action_links($links)
